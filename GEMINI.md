@@ -28,6 +28,7 @@ All the bot files is in under "new agents" folder
 - **consideration**: Agents for customer consideration and engagement.
 - **interests-demand-generation**: Agents for interest and demand generation.
 
+ 
 # Key Files
 
 Each Markdown file in the subdirectories defines a single agent. The files follow a consistent structure:
